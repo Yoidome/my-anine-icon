@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <iconmask img1="iconmask" />
+<scale factor="0.64" />
     <iconback img1="original" />
     <scale factor="1.0" />
 </resources>
